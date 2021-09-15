@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robonova 
 - 👀 I’m interested in learning new skills and programming
 - 🌱 I’m currently learning about api and python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with other developers
 - 📫 Reach me: rhythm560976@gmail.com | YouTube @Robonova 
